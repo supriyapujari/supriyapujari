@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/suprija-pujari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:supriyapujari432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=supriyapujari&color=blueviolet&style=flat)
+
 </p>
 
 ---

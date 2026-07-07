@@ -4,10 +4,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/suprija-pujari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:supriyapujari432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=supriyapujari&color=brightgreen&style=for-the-badge&label=Profile+Views)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=supriyapujari&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🎯 About Me
@@ -30,10 +32,6 @@
 **Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Tools:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-
----
-
-
 
 ---
 

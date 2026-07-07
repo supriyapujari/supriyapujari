@@ -31,35 +31,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-#### 🅿️ [Parking Management System](#)
-`React` · `Node.js` · `MongoDB`
-A system to manage vehicle parking for residential and commercial areas — featuring slot allocation, vehicle entry/exit tracking, fee calculation, and usage report visualization.
-
-#### 🔐 [Secure Searchable Encryption](#)
-`HTML` · `CSS` · `Python Flask` · `MySQL` · `Cryptography`
-A searchable encryption system enabling users to store and search encrypted data while preserving confidentiality, with a secure file management interface.
-
-#### 🏦 [Banklite – Smart Loan Origination System](#)
-`React` · `Python Flask` · `MySQL`
-A Loan Origination System with secure authentication, role-based access, credit score simulation, underwriting workflow, audit logging, and Recharts-powered dashboards for customers and officers.
-
-> 💡 Replace the `#` links above with your actual repo URLs once you add these projects to GitHub.
-
----
-
-### 📜 Certifications
-
-- Infosys Springboard: Associate in IT Foundation Skills (Java), DSA, DBMS, NoSQL
-- NPTEL Certificate Course in Theory of Computation
-
----
-
-### 🌟 Beyond Code
-
-- 🏆 Participated in **Hack League 4.0**, Global Academy of Technology, Bengaluru
-- 🎉 Volunteer & Event Organizer, College TechFest
 
 ---
 
